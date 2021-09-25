@@ -279,8 +279,13 @@ p {
   display: flex;
   justify-content: space-between;
 }
+.icon-back {
+  fill: var(--white-color);
+  background-color: papayawhip;
+}
 .team-icon {
-  fill: var(--accent-color);
+  fill: palevioletred;
+  border-radius: 50%;
 }
 
 /* Studio Main */
